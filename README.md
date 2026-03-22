@@ -43,12 +43,37 @@
 
 ---
 
-## 🔥 Featured Projects
+## 📂 My Projects
 
 ### 🤖 [quant-trading-bot-kesha](https://github.com/voronezh00136-bit/quant-trading-bot-kesha)
-> Automated trading system utilizing OpenClaw framework and Pine Script.
-> NBA Predictive Analytics & Probability Model
-> ⭐ Algorithmic Trading | 📊 Quantitative Analysis | 🏀 Sports Analytics
+> Automated trading system utilizing OpenClaw framework and Pine Script. NBA Predictive Analytics & Probability Model.
+
+![Language](https://img.shields.io/github/languages/top/voronezh00136-bit/quant-trading-bot-kesha?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/voronezh00136-bit/quant-trading-bot-kesha?style=flat-square)
+
+---
+
+### 🧠 [ai-style-transfer-engine](https://github.com/voronezh00136-bit/ai-style-transfer-engine)
+> AI Style Transformation & Generative Engine — deep learning model for neural style transfer and image generation.
+
+![Language](https://img.shields.io/github/languages/top/voronezh00136-bit/ai-style-transfer-engine?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/voronezh00136-bit/ai-style-transfer-engine?style=flat-square)
+
+---
+
+### 📡 [telegram-market-sentiment-bot](https://github.com/voronezh00136-bit/telegram-market-sentiment-bot)
+> NLP-powered Telegram bot for real-time market sentiment analysis and automated alerts.
+
+![Language](https://img.shields.io/github/languages/top/voronezh00136-bit/telegram-market-sentiment-bot?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/voronezh00136-bit/telegram-market-sentiment-bot?style=flat-square)
+
+---
+
+### 🏀 [nba-predictive-modeling](https://github.com/voronezh00136-bit/nba-predictive-modeling)
+> Machine learning pipeline for NBA player performance forecasting and game probability modeling.
+
+![Language](https://img.shields.io/github/languages/top/voronezh00136-bit/nba-predictive-modeling?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/voronezh00136-bit/nba-predictive-modeling?style=flat-square)
 
 ---
 
