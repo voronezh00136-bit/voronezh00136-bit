@@ -106,6 +106,47 @@ class MLEngineer:
 
 </div>
 
+
+---
+
+## 🚀 Current Project — AI Trading Office
+
+> *I'm not building a bot. I'm building a trading office — powered entirely by AI.*
+>
+> What started as a quantitative trading engine has evolved into something much bigger: a coordinated system of specialized AI agents — each with its own role, logic, memory, and behavioral profile. Not a cluster of scripts. A team.
+>
+> ### 🏗️ Architecture
+>
+> Right now, **7 agents** are already live and operating inside this environment:
+>
+> | Agent | Role |
+> |-------|------|
+> | 📡 Signal Generator | Scanning and detecting market opportunities |
+> | 🔍 Validator | Filtering noise from real edge |
+> | 🎯 Probability Assessor | Calibrating confidence before any move |
+> | 🛡️ Risk Interpreter | Knowing when NOT to act |
+> | ⚡ Execution Engine | Precise and adaptive order placement |
+> | 📋 Reviewer | Post-trade analysis and performance tracking |
+> | 🔄 Behavioral Corrector | Learning from every mistake, every weak trade |
+>
+> ### 🧠 Philosophy
+>
+> I don't build agents to be **flawless**. I build them to be **adaptable**.
+>
+> Each agent has bounded error tolerance and is intentionally modeled with controlled imperfection — because real decision-making systems become strongest when they can detect, absorb, and learn from failure. Every weak trade, misread condition, or execution flaw becomes feedback that sharpens future judgment.
+>
+> ### 🎯 Next Milestone
+>
+> Expand from **7 → 12 coordinated agents** and shape this into what I call a **mini Wall Street office** — AI-native from the ground up, with coordination, memory, and feedback loops at every level.
+>
+> ### 📈 Status
+>
+> - ✅ 7 specialized agents live and operational
+> - - ✅ Early live results demonstrating coordinated decision quality
+>   - - 🔄 Expanding agent network to 12
+>     - - 🔄 Hardening execution infrastructure for scale
+>      
+>       - ---
 ---
 
 <div align="center">
