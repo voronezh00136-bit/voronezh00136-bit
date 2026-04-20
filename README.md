@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:0D1117&height=260&section=header&text=Aleksandr%20Gvozdkov&fontSize=58&fontAlignY=38&fontColor=58A6FF&animation=fadeIn&desc=ML%20Engineer%20%7C%20LLM%20Fine-Tuning%20%7C%20AI%20Systems%20%7C%20Quant%20Trading&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=260&section=header&text=Aleksandr%20Gvozdkov&fontSize=58&fontAlignY=38&fontColor=FFFFFF&desc=ML%20Engineer%20%7C%20LLM%20Fine-Tuning%20%7C%20AI%20Systems%20%7C%20Quant%20Trading&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=LLM+Fine-Tuning+%26+RLHF+Specialist;AI+Trading+Office+Architect+(7+Live+Agents);Personal+JARVIS+%7C+Voice+AI+Assistant;NBA+Prediction+Engine+%E2%80%94+78%25%2B+Accuracy;FlowMoney+%E2%80%94+FinTech+Mobile+App;5%2B+Years+in+Production+ML+%2F+AI" alt="Typing SVG"/>
-</a>
+</div>
 
-<br/>
+<h3 align="center">
+  🤖 LLM Fine-Tuning & RLHF  ·  📈 AI Trading Office Architect  ·  🎙️ Voice AI  ·  🏀 ML Analytics  ·  🚀 5+ Years in Production ML/AI
+</h3>
+
+<div align="center">
 
 <a href="mailto:voronezh00136@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aleksandr-gvozdkov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/voronezh00136-bit"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://voronezh00136-bit.github.io/flowmoney-website/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://voronezh00136-bit.github.io/flowmoney-website/"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=voronezh00136-bit&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS"/>
 
 </div>
@@ -209,11 +211,11 @@ I'm open to **Full-Time ML/AI Roles**, **Freelance Projects**, and **LLM Consult
 
 <a href="mailto:voronezh00136@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aleksandr-gvozdkov/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://voronezh00136-bit.github.io/flowmoney-website/"><img src="https://img.shields.io/badge/View%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://voronezh00136-bit.github.io/flowmoney-website/"><img src="https://img.shields.io/badge/View%20Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=120&section=footer"/>
 
 <sub>⭐ From <b>Aleksandr Gvozdkov</b> — Building AI systems that ship to production.</sub>
 
