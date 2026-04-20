@@ -1,15 +1,24 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=260&section=header&text=Aleksandr%20Gvozdkov&fontSize=58&fontAlignY=38&fontColor=FFFFFF&desc=ML%20Engineer%20%7C%20LLM%20Fine-Tuning%20%7C%20AI%20Systems%20%7C%20Quant%20Trading&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%"/>
-
-</div>
-
-<h3 align="center">
-  🤖 LLM Fine-Tuning & RLHF  ·  📈 AI Trading Office Architect  ·  🎙️ Voice AI  ·  🏀 ML Analytics  ·  🚀 5+ Years in Production ML/AI
-</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ✨ Aleksandr Gvozdkov — ML Engineer · LLM / AI / Quant Trading           -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=260&section=header&text=Aleksandr%20Gvozdkov&fontSize=58&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=ML%20Engineer%20%7C%20LLM%20Fine-Tuning%20%7C%20AI%20Systems%20%7C%20Quant%20Trading&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%"/>
+
+<!-- ⌨️ Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=48&lines=Machine+Learning+Engineer+%7C+5%2B+Years+in+Production;LLM+Fine-Tuning+%E2%80%A2+RLHF+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+Systems;AI+Trading+Office+Architect+%E2%80%94+7+Live+Agents;Voice+AI+%E2%80%A2+Whisper+%E2%80%A2+Claude+%E2%80%A2+LangGraph;Open+to+Full-Time+%7C+Freelance+%7C+LLM+Consulting" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<!-- 🌊 Animated gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1F6FEB,100:0D1117&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- 🔗 Contact Badges with hover-style shields -->
 <a href="mailto:voronezh00136@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aleksandr-gvozdkov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/voronezh00136-bit"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -18,9 +27,12 @@
 
 </div>
 
----
+<!-- 🌈 Animated rainbow line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 👨‍💻 About Me
+
+<img align="right" alt="coding" width="340" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/programming.gif"/>
 
 I'm a **Machine Learning Engineer** with **5+ years** of experience building **production-ready AI/ML systems** across NLP, LLM fine-tuning, quantitative finance, and computer vision.
 
@@ -48,7 +60,7 @@ class MLEngineer:
     open_to            = ["Full-Time ML/AI Roles", "Freelance", "LLM Consulting"]
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## ⚡ Tech Stack
 
@@ -56,19 +68,31 @@ class MLEngineer:
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Pine%20Script-00C896?style=for-the-badge&logo=tradingview&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,javascript,bash,md&theme=dark" />
 
 **AI / Machine Learning**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge&logoColor=white"/>
 
 **Data & Infrastructure**
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,fastapi,aws,githubactions,git,linux&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -168,7 +192,7 @@ class MLEngineer:
 | 🛠️ **Stack** | Python, PyTorch, TensorFlow, CNN |
 | 📌 **Status** | ✅ Complete |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -183,15 +207,26 @@ class MLEngineer:
 
 <br/><br/>
 
+<!-- 🏆 Trophies with animation-friendly design -->
 <img src="https://github-profile-trophy.vercel.app/?username=voronezh00136-bit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=voronezh00136-bit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" width="95%"/>
+<!-- 🐍 Snake contribution animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="95%"/>
+</picture>
+
+<br/><br/>
+
+<!-- 📈 Animated activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=voronezh00136-bit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB" width="95%"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 💼 Work Experience
 
@@ -201,13 +236,18 @@ class MLEngineer:
 | **2022 – 2024** | **Yandex** | ML Engineer | NLP, recommendations — **1M+ users** |
 | **2020 – 2022** | **MTS** | ML Engineer | AI products for Russia's largest telecom |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm open to **Full-Time ML/AI Roles**, **Freelance Projects**, and **LLM Consulting**.
+<!-- ⌨️ Second typing SVG for call-to-action -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Let's+build+something+great+together!;Open+to+Full-Time+%7C+Freelance+%7C+Consulting;Reach+out+%E2%86%92+voronezh00136%40gmail.com" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
 
 <a href="mailto:voronezh00136@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aleksandr-gvozdkov/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -215,7 +255,7 @@ I'm open to **Full-Time ML/AI Roles**, **Freelance Projects**, and **LLM Consult
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=120&section=footer&animation=twinkling"/>
 
 <sub>⭐ From <b>Aleksandr Gvozdkov</b> — Building AI systems that ship to production.</sub>
 
